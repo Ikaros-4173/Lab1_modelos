@@ -451,6 +451,20 @@ public static class PokemonDatabase
             },
             new string[] {},
             new int[] {}, new string[] {}),
+
+        new PokemonData(147,"Dratini",PokemonData.Type.DRAGON, PokemonData.Type.WATER,"Shed Skin", null, "Hydro pump",
+            null, "Marvel scale", 64, 45, PokemonData.EggGroup.WATER1, PokemonData.EggGroup.DRAGON, 10280, 5.11f, 7.3, 67, PokemonData.LevelingRate.SLOW, 0, 1, 0, 0, 0, 0, PokemonData.PokedexColor.BLUE, 70,
+            "Dragon",
+            "It is called the Mirage Pokémon because so few have seen it. Its shed skin has been found",
+            35, 218, 41, 64, 45, 50, 50, 50, Color.blue, 
+            new int[] {1, 1, 5, 11, 15, 21, 25, 31, 35, 41, 45, 51, 55, 61},
+            new string[]
+            {
+                "Leer", "Wrap", "Thunder Wave", "Twister", "Dragon Rage", "Slam", "Agility", "Aqua Tail", "Dragon Rush", "Safeguard", "Dragon Dance", "Outrage", "Hyper Beam",
+            },
+            new string[] {},
+            new int[] {}, new string[] { }),
+
         new PokemonData(152, "Chikorita", PokemonData.Type.GRASS, PokemonData.Type.NONE, "Overgrow", null, "Leaf Guard",
             87.5f, 45, PokemonData.EggGroup.MONSTER, PokemonData.EggGroup.GRASS, 5355, 0.9f, 6.4f,
             64, PokemonData.LevelingRate.MEDIUMSLOW, 0, 0, 0, 0, 1, 0, PokemonData.PokedexColor.GREEN, 70,

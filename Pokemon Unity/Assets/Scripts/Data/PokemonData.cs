@@ -125,6 +125,48 @@ public class PokemonData
 
     private int[] evolutionID;
     private string[] evolutionRequirements;
+    private int v1;
+    private string v2;
+    private Type dRAGON1;
+    private Type wATER;
+    private string v3;
+    private object p1;
+    private string v4;
+    private object p2;
+    private string v5;
+    private int v6;
+    private int v7;
+    private EggGroup wATER1;
+    private EggGroup dRAGON2;
+    private int v8;
+    private float v9;
+    private double v10;
+    private int v11;
+    private LevelingRate sLOW;
+    private int v12;
+    private int v13;
+    private int v14;
+    private int v15;
+    private int v16;
+    private int v17;
+    private PokedexColor bLUE;
+    private int v18;
+    private string v19;
+    private string v20;
+    private int v21;
+    private int v22;
+    private int v23;
+    private int v24;
+    private int v25;
+    private int v26;
+    private int v27;
+    private int v28;
+    private Color blue;
+    private int[] v29;
+    private string[] v30;
+    private string[] v31;
+    private int[] v32;
+    private string[] v33;
 
     //E.G.	Poliwhirl(61)
     //		new int[]{62,186},
@@ -239,6 +281,51 @@ public class PokemonData
         this.evolutionRequirements = evolutionRequirements;
     }
 
+    public PokemonData(int v1, string v2, Type dRAGON1, Type wATER, string v3, object p1, string v4, object p2, string v5, int v6, int v7, EggGroup wATER1, EggGroup dRAGON2, int v8, float v9, double v10, int v11, LevelingRate sLOW, int v12, int v13, int v14, int v15, int v16, int v17, PokedexColor bLUE, int v18, string v19, string v20, int v21, int v22, int v23, int v24, int v25, int v26, int v27, int v28, Color blue, int[] v29, string[] v30, string[] v31, int[] v32, string[] v33)
+    {
+        this.v1 = v1;
+        this.v2 = v2;
+        this.dRAGON1 = dRAGON1;
+        this.wATER = wATER;
+        this.v3 = v3;
+        this.p1 = p1;
+        this.v4 = v4;
+        this.p2 = p2;
+        this.v5 = v5;
+        this.v6 = v6;
+        this.v7 = v7;
+        this.wATER1 = wATER1;
+        this.dRAGON2 = dRAGON2;
+        this.v8 = v8;
+        this.v9 = v9;
+        this.v10 = v10;
+        this.v11 = v11;
+        this.sLOW = sLOW;
+        this.v12 = v12;
+        this.v13 = v13;
+        this.v14 = v14;
+        this.v15 = v15;
+        this.v16 = v16;
+        this.v17 = v17;
+        this.bLUE = bLUE;
+        this.v18 = v18;
+        this.v19 = v19;
+        this.v20 = v20;
+        this.v21 = v21;
+        this.v22 = v22;
+        this.v23 = v23;
+        this.v24 = v24;
+        this.v25 = v25;
+        this.v26 = v26;
+        this.v27 = v27;
+        this.v28 = v28;
+        this.blue = blue;
+        this.v29 = v29;
+        this.v30 = v30;
+        this.v31 = v31;
+        this.v32 = v32;
+        this.v33 = v33;
+    }
 
     public override string ToString()
     {
