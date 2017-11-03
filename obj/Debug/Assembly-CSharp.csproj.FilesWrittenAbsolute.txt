@@ -1,0 +1,17 @@
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/UnityEngine.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/UnityEditor.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/UnityEngine.UI.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/UnityEngine.Analytics.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/UnityEngine.VR.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/Unity.DataContract.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/Mono.Cecil.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/Unity.CecilTools.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/home/denigrante/Sonic-Realms/Temp/bin/Debug/Mono.Cecil.Mdb.dll
